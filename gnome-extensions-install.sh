@@ -1,6 +1,6 @@
 #!/bin/bash
 
-array=( dash-to-dock@micxgx.gmail.com caffeine@patapon.info user-theme@gnome-shell-extensions.gcampax.github.com IP-Finder@linxgem33.com)
+array=( dash-to-dock@micxgx.gmail.com caffeine@patapon.info user-theme@gnome-shell-extensions.gcampax.github.com IP-Finder@linxgem33.com no-overview@fthx)
 
 for i in "${array[@]}"
 do
